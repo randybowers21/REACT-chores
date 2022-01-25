@@ -62,5 +62,5 @@
 }
 .hidden:hover {
     color: #85e2a7;
-    transform: scale(1.02);
+    transform: scale(.95);
 }
